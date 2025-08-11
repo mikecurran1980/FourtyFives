@@ -13,3 +13,4 @@ MemoryCaptures/
 *.mdb
 *.opendb
 *.VC.db
+.vscode/
